@@ -2,9 +2,9 @@
 
   My name is Muhammad Kamran, I'm a Full Stack Developer out of the Bay Area.
 
- 🔭 I’m currently working on a lazy Git CLI.
+ 🔭 I’m currently working on a Node based projects.
  
- 🌱 I’m currently learning to animate better with CSS.
+ 🌱 I’m currently learning about complex animations without libraries. 
  
  📫 How to reach me: me@mkamran.us
  
