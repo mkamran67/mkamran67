@@ -4,7 +4,7 @@
 
  🔭 I’m currently working with Electron and Typescript and learning about Postgres. ⌨️
  
- 📫 How to reach me: me@mkamran.us
+ 📫 You can reach me here ↣ me@mkamran.us
  
  ⚡ For fun I ride my KTM SDR (motorcycle).
 
