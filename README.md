@@ -1,10 +1,8 @@
-#### Hello! 
+#### Hi! 
 
-  My name is Muhammad Kamran, I'm a Full Stack Developer out of the Bay Area.
+  I'm Muhammad Kamran, I'm a Full Stack Developer in the Bay Area.
 
- 🔭 I’m currently working on a Node based projects.
- 
- 🌱 I’m currently learning about complex animations without libraries. 
+ 🔭 I’m currently working with Electron and Typescript and learning about Postgres. ⌨️
  
  📫 How to reach me: me@mkamran.us
  
