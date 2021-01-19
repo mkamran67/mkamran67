@@ -2,7 +2,7 @@
 
   I'm Muhammad Kamran, I'm a Full Stack Developer in the Bay Area.
 
- 🔭 I’m currently working with Electron, Typescript and PostgresSQL. ⌨️
+ 🔭 I’m currently working with Next.js, Typescript and GraphQL. ⌨️
  
  📫 You can reach me here ↣ me@mkamran.us
  
