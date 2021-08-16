@@ -2,7 +2,7 @@
 
   I'm Muhammad Kamran, I'm a Full Stack Developer in the Bay Area.
 
- 🔭 I’m currently working with Next.js, Typescript and GraphQL. ⌨️
+ 🔭 I’m currently messing around with Ember.js. ⌨️
  
  📫 You can reach me here ↣ me@mkamran.us
 
