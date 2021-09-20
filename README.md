@@ -2,7 +2,7 @@
 
   I'm Muhammad Kamran, I'm a Full Stack Developer in the Bay Area.
 
- 🔭 I’m currently messing around with Ember.js. ⌨️
+ 🔭 I’m currently messing around with Electron and React Native ⌨️
  
  📫 You can reach me here ↣ me@mkamran.us
 
