@@ -2,7 +2,9 @@
 
   I'm Muhammad Kamran, I'm a Full Stack Developer in the Bay Area.
 
- 🔭 I’m currently messing around with Electron and React Native ⌨️
+ 🔭 On the side I'm messing around with C++ for kernel level code and C# for Unity game developement ⌨️
+ 
+ 🐱‍👤  Primarily coding with Python for backend (loving Fastapi) and tapping into ReactJS again instead of Nextjs
  
  📫 You can reach me here ↣ me@mkamran.us
 
