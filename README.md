@@ -1,6 +1,6 @@
 #### Hi! 
 
-  I'm Muhammad Kamran, I'm a Full Stack Developer in the Bay Area.
+  I'm Muhammad Kamran, I'm a Full Stack Developer from the Bay Area.
 
  🔭 On the side I'm messing around with C++ for kernel level code and C# for Unity game developement ⌨️
  
