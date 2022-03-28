@@ -4,7 +4,7 @@
 
  🔭 On the side I'm messing around with C++ for kernel level code and C# for Unity game developement ⌨️
  
- 🐱‍👤  Primarily coding with Python for backend (loving Fastapi) and tapping into ReactJS again instead of Nextjs
+ 🐱‍👤  Primarily coding with Python for backend (loving Fastapi) and ReactJS for the frontend.
  
  📫 You can reach me here ↣ me@mkamran.us
 
