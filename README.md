@@ -4,7 +4,7 @@
   
  🐱‍👤 Primarily integrating various services, automating tests, and building a unified testing service with NodeJS ⚔.
 
- 🔭 On the side diving into Data Sciences/Analysis and Machine Learning.
+ 🔭 On the side diving into Data Science/Analysis and Machine Learning.
  
  📫 You can reach me here ↣ me@mkamran.us
 
