@@ -1,10 +1,10 @@
 #### Hi! 
 
   I'm Muhammad Kamran, I'm a Full Stack Developer from the Bay Area.
+  
+ 🐱‍👤 Primarily integrating various services, automating tests, and building a unified testing service with NodeJS ⚔.
 
- 🔭 On the side I'm messing around with C++ for kernel level code and C# for Unity game developement ⌨️
- 
- 🐱‍👤  Primarily coding with Python for backend (loving Fastapi) and ReactJS for the frontend.
+ 🔭 On the side diving into Data Sciences/Analysis and Machine Learning.
  
  📫 You can reach me here ↣ me@mkamran.us
 
